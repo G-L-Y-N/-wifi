@@ -1,0 +1,5 @@
+1、首先安装python（已安装可以忽略）
+2、按Windows+R打开运行栏输入cmd，回车
+3、下载安装模块：pip install pywifi  和 pip install comtypes
+4、运行py_wifi,点击搜索WiFi，即可查找附件WiFi，然后双击需要破解的WiFi，
+     再次点击添加密码文件，选择密码字典，然后点击开始，等待破解
